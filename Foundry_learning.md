@@ -1,14 +1,12 @@
 # Foundry VTT Player 'Training' 1
 
 1. Get a drink
-2. Login and look at the learning resources and aims sections, watch the video etc
-3. You can look at the checklist as you go through, after or ignore it
-
-## How to login
-
-1) Go to link provided
-2) Stop to appreciate the art; if you can't see the hoff with puppies, give me a shout first as I may be playing
-3) Choose your name, password is in discord so I don't save it here
+2. Login
+  - Go to link provided 
+  - Stop to appreciate the art; shout if you can't see the hoff with puppies
+  - Choose your name, password is in discord so I don't save it here
+3. Look at the learning resources and aims sections in this guide, watch the video etc
+4. You can look at the checklist as you go through, after or ignore it completely
 
 ## Player learning resources
 
@@ -21,26 +19,27 @@ https://foundryvtt.com/article/player-orientation/
 
 
 ## Aims
-There are 2 night maps where you can properly interact with your tokens 
+There are 2 night scenes where you can properly interact with your tokens 
 - crossroads
 - forge
-And other maps to marvel at:
+And other scenes to marvel at:
 - Faerun, very large map
 - Sword Coast, Smaller map
 - Bridge - two animated maps just to see how they load
 - Large - large map what I made, to see how it loads
 
-Anything else is me playing and you can ignore for now
+Anything other maps is me playing and you can ignore for now
 
 All characters (should) have dark vision so shout if you can't see anything.
 
 ##  Checklist 
 
 By the end of this can you:
-- [ ] Maps
-  - [ ] Move between maps; or 'scenes' as they're known
-  - [ ] Load all the scenes ok, do some take ages etc
-    - [ ] Note there should be a frames per second meter displaying in the top right of the screen, left of the sidebar tabs
+- [ ] Scenes - their terminology but let's use it as this could be a battlemap, holding page, bookm, photo etc
+  - [ ] Move between scenes
+  - [ ] Load all the scenes ok, do some take ages? I've purposefully loaded some bigs ones here
+    - [ ] Note there should be a frames per second meter displaying in the top right of the screen, left of the sidebar tabs. See if this drops as you move around, mine is 60+
+    - [ ] Can you go to https://webglreport.com/?v=2 , from the computer you play on, and give me a screenshot please?
   - [ ] Zoom in, out scroll etc
 - [ ] Vision
     - [ ] Personal vision: If your token is selected you'll see your character's vision. 
@@ -82,6 +81,4 @@ By the end of this can you:
     - [ ] MOAR Combat
 - [ ] Extra credit, can you change your dice colour/ style
     - [ ] Hint: Game Settings> Configure Settings> Module Settings> Dice so Nice!
-
-## Report back
-- [ ] Can you go to https://webglreport.com/?v=2, from the computer you play on, and give me a screenshot please?
+    - [ ] I also think they may pick up your player colour, assigned automatically so no complaining if you happed to me Mr Brown/ Pink
