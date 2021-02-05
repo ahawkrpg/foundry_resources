@@ -18,11 +18,11 @@ By the end of this can you:
   Move between maps (aka scenes for DMs)
   Load all the maps ok, do some take ages etc
 2. Movement
-  2.1  test
-    2.1.2 lists
-  2.2 nested
+ - test
+   -  lists
+ - nested
 
-3. 
+2. is this 2 or 3?
 Sneak around the crossroads map and get through the door to the forge
 Make some rolls with your character
 Understand the difference between Calius and Percival in terms of how they're helping you see?
