@@ -15,11 +15,12 @@ https://foundryvtt.com/article/player-orientation/
 ## Aims
 By the end of this can you:
 1. Maps
-  Move between maps (aka scenes for DMs)
-  Load all the maps ok, do some take ages etc
+   1. Move between maps (aka scenes for DMs)
+   1. Load all the maps ok, do some take ages etc
+   3. test
 2. Movement
- 1. test
-   1.  lists
+   1. test
+      1.  lists
  3. nested
 2. is this 2 or 3?
 Sneak around the crossroads map and get through the door to the forge
