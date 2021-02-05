@@ -7,22 +7,22 @@
 3) Choose your name, password is in discord so I don't save it here
 
 ## Player learning resources
-### Videos - pause and copy, good monkey
+### Videos - pause and copy, good monkeyg
 https://www.youtube.com/watch?v=ja88yRVQmck
 ### Website - we got ourselves some readers here boys
 https://foundryvtt.com/article/player-orientation/
 
 ## Aims
 By the end of this can you:
--. [ ] Maps
-   -. [ ] Move between maps (aka scenes for DMs)
-   -. [ ] Load all the maps ok, do some take ages etc
-   -. [ ] appreciate how much this 
--. [ ] Movement
-  -. [ ] test
-     -.  [ ] lists
--. nested
--. is this 2 or 3?
+- [ ] Maps
+  - [ ] Move between maps (aka scenes for DMs)
+  -  [ ] Load all the maps ok, do some take ages etc
+  - [ ] appreciate how much this 
+- [ ] Movement
+  - [ ] test
+     -  [ ] lists
+- nested
+- is this 2 or 3?
 Sneak around the crossroads map and get through the door to the forge
 Make some rolls with your character
 Understand the difference between Calius and Percival in terms of how they're helping you see?
