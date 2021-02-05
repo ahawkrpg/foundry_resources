@@ -1,6 +1,8 @@
 # Foundry VTT Player 'Training' 1
 
-Step 1: Get a drink
+1. Get a drink
+2. Login and look at the learning resources and aims sections, watch the video etc
+3. You can look at the checklist as you go through, after or ignore it
 
 ## How to login
 
@@ -28,10 +30,11 @@ And other maps to marvel at:
 - Bridge - two animated maps just to see how they load
 - Large - large map what I made, to see how it loads
 
-
 Anything else is me playing and you can ignore for now
 
 All characters (should) have dark vision so shout if you can't see anything.
+
+##  Checklist 
 
 By the end of this can you:
 - [ ] Maps
