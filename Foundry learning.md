@@ -1,4 +1,4 @@
-#Foundry VTT Player 'Training'
+# Foundry VTT Player 'Training'
 
 ## How to login
 
@@ -7,7 +7,7 @@
 3) Choose your name, password is in discord so I don't save it here
 
 ## Player learning resources
-### Videos
+### Videos - pause and repeat monkey
 https://www.youtube.com/watch?v=ja88yRVQmck
 ### Website - we got ourselves some readers here boys
 https://foundryvtt.com/article/player-orientation/
@@ -18,10 +18,9 @@ By the end of this can you:
   Move between maps (aka scenes for DMs)
   Load all the maps ok, do some take ages etc
 2. Movement
- - test
-   -  lists
- - nested
-
+ 1. test
+   1.  lists
+ 3. nested
 2. is this 2 or 3?
 Sneak around the crossroads map and get through the door to the forge
 Make some rolls with your character
