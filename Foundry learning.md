@@ -7,7 +7,7 @@
 3) Choose your name, password is in discord so I don't save it here
 
 ## Player learning resources
-### Videos - pause and repeat monkey
+### Videos - pause and copy, good monkey
 https://www.youtube.com/watch?v=ja88yRVQmck
 ### Website - we got ourselves some readers here boys
 https://foundryvtt.com/article/player-orientation/
@@ -19,8 +19,8 @@ By the end of this can you:
    1. Load all the maps ok, do some take ages etc
    3. test
 2. Movement
-   1. test
-      1.  lists
+  1. test
+     1.  lists
  3. nested
 2. is this 2 or 3?
 Sneak around the crossroads map and get through the door to the forge
